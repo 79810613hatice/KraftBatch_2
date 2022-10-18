@@ -10,14 +10,11 @@ public class Challenge extends GameActivity {
         int point;
         this.shootOption = shootOption;
         this.shootSucces = shootSucces;
-
         pointOfShoot = 1000/shootOption;
-
         point = pointOfShoot*shootSucces;
 
- //       score = point; // score değişkeni parent classda privite
-
-        setScore(point);
+ //     score = point; // score değişkeni parent classda private tanımlandığı için doğrudan erişilemez
+        setScore(point); // setter metodu o yüzden kulllanıldı
 
     }
 }

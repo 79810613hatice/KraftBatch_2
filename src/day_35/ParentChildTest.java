@@ -6,8 +6,8 @@ public class ParentChildTest {
  //       childClass.print_message_P();
         childClass.print_message_C();
 
-        ParentClass parentClass = new ChildClass();
- //       parentClass.print_message_C(); // parent class  methodlarına erişemez
+        ParentClass parentClass = new ParentClass();
+ //       parentClass.print_message_C(); // parent class child class ın methodlarına ve fields larına erişemez
 
 
     }

@@ -1,0 +1,6 @@
+if the veriable in the parent class is defined with same name same singnature child class.
+There is two  referance sitation one of them from child class one of them from parent class
+if we are referancing from child class veriable in the child class is used
+if we are referancing from parent class veriable in the parent class is used
+
+        *closed one is used

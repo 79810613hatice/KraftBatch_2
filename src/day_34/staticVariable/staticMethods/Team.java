@@ -13,14 +13,12 @@ public class Team {
     public static void teamChangeTo(int i) {
         team = i;
 
-
     }
-
 
     public void getInfo() {
         System.out.println("Team{" +
-                "team= " + team +
-                "name= " + name + '}');
+                " team = " + team +
+                " name = " + name + '}' );
     }
 }
 class main{

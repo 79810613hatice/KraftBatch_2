@@ -1,2 +1,5 @@
-package Day_41_Polymorphism;public class Kus {
+package Day_41_Polymorphism;
+
+public class Kus {
+
 }

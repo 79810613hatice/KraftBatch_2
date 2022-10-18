@@ -1,7 +1,12 @@
 package Day_36_Inheritance_Cont;
 
 public class Class_A {
-    int a;
+  static int a;
+
+
+    public Class_A(int a){
+     this.a=a;
+    }
 
 
     public void aMetodu(){

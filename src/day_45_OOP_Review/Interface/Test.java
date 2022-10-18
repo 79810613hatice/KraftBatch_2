@@ -1,4 +1,5 @@
-package day_45_OOP_Review.hidingCont.Interface;
+package day_45_OOP_Review.Interface;
 
 public class Test {
+
 }

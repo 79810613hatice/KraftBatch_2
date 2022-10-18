@@ -14,6 +14,7 @@ public class Birtday {
 
 class main2{
     public static void main(String[] args) {
+
         Birtday zafer = new Birtday();
         Birtday enes = new Birtday();
         Birtday ilyas = new Birtday();
@@ -29,12 +30,13 @@ class main2{
         talip.takeASlice();
         ramazan.takeASlice();
         talha.takeASlice();
-  //      zafer.takeASlice(2);
+        zafer.takeAslice(2);
         ilyas.takeASlice();
 
+        System.out.println(ilyas.cakeSlice);
 
        // System.out.println(Birtday.cakeSlice);
 
-        System.out.println(ilyas.cakeSlice);
+
     }
 }

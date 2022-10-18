@@ -1,4 +1,4 @@
-package day_45_OOP_Review.hidingCont.abstruction;
+package day_45_OOP_Review.abstruction;
 
 public class D3PrintTest {
     public static void main(String[] args) {

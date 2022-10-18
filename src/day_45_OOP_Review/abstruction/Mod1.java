@@ -1,4 +1,4 @@
-package day_45_OOP_Review.hidingCont.abstruction;
+package day_45_OOP_Review.abstruction;
 
 public class Mod1 extends D3Print{
 

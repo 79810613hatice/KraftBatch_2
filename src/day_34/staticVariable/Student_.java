@@ -5,7 +5,7 @@ public class Student_ {
     int number;
     String name;
 
-    String schoolName = "KRAFT";
+   static String schoolName = "KRAFT";
   //  static int counter;
 
 
@@ -17,7 +17,7 @@ public class Student_ {
     public String getInfo(){
         return "Student_{" +
                 "number=" + number +
-                ", name= ' " +'\'' +
+                ", name= '"+name +'\'' +
                 ", schoolName='" + schoolName +'\'' +
                 '}';
 

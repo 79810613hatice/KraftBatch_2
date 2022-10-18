@@ -1,4 +1,4 @@
-package day_45_OOP_Review.hidingCont.Interface;
+package day_45_OOP_Review.Interface;
 
 public class B implements A{
     @Override
@@ -20,5 +20,8 @@ public class B implements A{
     public void M4() {
 
     }
+
+}
+class C extends B{
 
 }

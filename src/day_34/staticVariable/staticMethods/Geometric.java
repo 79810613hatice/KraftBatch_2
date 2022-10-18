@@ -10,6 +10,7 @@ public class Geometric {
     public static void setPrimeter(int... sides){
         for (int i : sides){
             primeter+=i;
+            counterSides++;
         }
         System.out.println("geometrik şeklin çevresi = " + primeter);
         System.out.println("geometrik şeklin kenar sayısı = " + counterSides++);

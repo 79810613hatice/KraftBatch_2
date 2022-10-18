@@ -1,4 +1,4 @@
-package Day_19;
+package day_19;
 
 public class StringMethods {
     public static void main(String[] args){
